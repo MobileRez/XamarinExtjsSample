@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link href="https://extjs.cachefly.net/touch/sencha-touch-2.4.1/resources/css/sencha-touch.css"
+          rel="stylesheet"
+          type="text/css" />
+    <script type="text/javascript"
+            src="https://extjs.cachefly.net/touch/sencha-touch-2.4.1/sencha-touch-all-debug.js"></script>
+</head>
+<body>
+    <script type="text/javascript">
+        Ext.application({
+            name : 'Foo',
+
+            launch : function () {
+                Ext.Viewport.add({
+                    xtype      : 'container',
+                    itemId     : 'test',
+                    fullscreen : true,
+                    items      : [
+                        {
+                            docked : 'top',
+                            xtype  : 'titlebar',
+                            items  : [
+                                {
+                                    xtype : 'button',
+                                    text  : 'Click me!',
+                                    handler : function() {
+                                        location.href = "hybrid:foobar";
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                });
+            }
+        });
+
+        function CallFromCSharp() {
+            Ext.Viewport.down('#test').add({
+                xtype : 'container',
+                html  : 'Added after C# called the UI'
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+C:\XamarinDemos\XamarinExtjsDemo\XamarinExtjsDemo.Droid\bin\Debug\XamarinExtjsDemo.Droid.dll
+C:\XamarinDemos\XamarinExtjsDemo\XamarinExtjsDemo.Droid\bin\Debug\XamarinExtjsDemo.Droid.pdb
+C:\XamarinDemos\XamarinExtjsDemo\XamarinExtjsDemo.Droid\bin\Debug\XamarinExtjsDemo.Droid.apk
+C:\XamarinDemos\XamarinExtjsDemo\XamarinExtjsDemo.Droid\bin\Debug\XamarinExtjsDemo.Droid-Signed.apk
+C:\XamarinDemos\XamarinExtjsDemo\XamarinExtjsDemo.Droid\obj\Debug\XamarinExtjsDemo.Droid.csprojResolveAssemblyReference.cache
+C:\XamarinDemos\XamarinExtjsDemo\XamarinExtjsDemo.Droid\obj\Debug\XamarinExtjsDemo.Droid.dll
+C:\XamarinDemos\XamarinExtjsDemo\XamarinExtjsDemo.Droid\obj\Debug\XamarinExtjsDemo.Droid.pdb
+C:\XamarinDemos\XamarinExtjsDemo\XamarinExtjsDemo.Droid\obj\Debug\android\bin\XamarinExtjsDemo.Droid.apk
+C:\XamarinDemos\XamarinExtjsDemo\XamarinExtjsDemo.Droid\obj\Debug\res\layout\main.xml
+C:\XamarinDemos\XamarinExtjsDemo\XamarinExtjsDemo.Droid\obj\Debug\res\values\strings.xml
+C:\XamarinDemos\XamarinExtjsDemo\XamarinExtjsDemo.Droid\obj\Debug\res\drawable\icon.png
+C:\XamarinDemos\XamarinExtjsDemo\XamarinExtjsDemo.Droid\obj\Debug\R.cs.flag
+C:\XamarinDemos\XamarinExtjsDemo\XamarinExtjsDemo.Droid\obj\Debug\uploadflags.txt
